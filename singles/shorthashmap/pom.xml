@@ -56,6 +56,8 @@
                                         <include>it/unimi/dsi/fastutil/shorts/Short2ObjectMaps$*.class</include>
                                         <include>it/unimi/dsi/fastutil/shorts/Short2ObjectOpenHashMap.class</include>
                                         <include>it/unimi/dsi/fastutil/shorts/Short2ObjectOpenHashMap$*.class</include>
+                                        <include>it/unimi/dsi/fastutil/shorts/Short2ObjectLinkedOpenHashMap.class</include>
+                                        <include>it/unimi/dsi/fastutil/shorts/Short2ObjectLinkedOpenHashMap$*.class</include>
                                     </includes>
                                 </filter>
                             </filters>
