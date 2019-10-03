@@ -14,12 +14,12 @@
 
     <distributionManagement>
         <repository>
-            <id>github</id>
-            <url>https://maven.pkg.github.com/LibertyLand/fastutil-lite</url>
+            <id>artuto</id>
+            <url>https://nexus.artuto.xyz/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>github</id>
-            <url>https://maven.pkg.github.com/LibertyLand/fastutil-lite</url>
+            <id>artuto</id>
+            <url>https://nexus.artuto.xyz/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
