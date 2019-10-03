@@ -14,12 +14,12 @@
 
     <distributionManagement>
         <repository>
-            <id>aikar</id>
-            <url>https://repo.aikar.co/content/repositories/aikar-release/</url>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/LibertyLand/fastutil-lite</url>
         </repository>
         <snapshotRepository>
-            <id>aikar</id>
-            <url>https://repo.aikar.co/content/repositories/aikar-snapshots/</url>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/LibertyLand/fastutil-lite</url>
         </snapshotRepository>
     </distributionManagement>
 
